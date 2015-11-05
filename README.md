@@ -9,5 +9,4 @@ Put semantically versioned files in the scripts directory in the format x.y.z.sh
 When run_update.sh is executed, it will then check the current_version from
 current_update.sh and run all scripts after the current version.
 
-##Coming Soon
-- Will store the most recent file run back into the current_version variable.
+Stores the most recent file run back into the current_version variable.

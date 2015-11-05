@@ -1,0 +1,4 @@
+scripts/*
+!scripts/0.0.0.sh
+current_update.sh
+history.txt

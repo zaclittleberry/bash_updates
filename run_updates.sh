@@ -24,6 +24,7 @@ filter () {
     then
       echo $x
       echo "current_version=\"$y\"" > $update_source
+      echo $x >> history.txt
     fi
 
   done
